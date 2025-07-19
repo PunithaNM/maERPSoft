@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewData["Title"] = "Employees";
+}
+
+<h2>Employees List</h2>
+@foreach (var emp in Model)
+{
+    <div class="card mb-3 p-3">
+        <ul>
+            <li>Emp ID : @emp.ID</li>
+            <li>Name : @emp.Name</li>
+            <li>Department : @emp.Department</li>
+            <li>Email : @emp.Email</li>
+        </ul>
+    </div>
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maERPSoft", "maERPSoft.csproj", "{AE4274BF-BCF6-4905-8078-EF2A30409A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4274BF-BCF6-4905-8078-EF2A30409A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4274BF-BCF6-4905-8078-EF2A30409A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4274BF-BCF6-4905-8078-EF2A30409A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4274BF-BCF6-4905-8078-EF2A30409A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79DAE761-29B7-4A23-8E0B-F69F8FB29C05}
+	EndGlobalSection
+EndGlobal
