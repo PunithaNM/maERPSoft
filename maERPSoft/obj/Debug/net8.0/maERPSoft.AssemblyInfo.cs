@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maERPSoft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+014263393403d7afe4bfa969241ec9d8bba451f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("maERPSoft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maERPSoft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

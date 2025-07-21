@@ -1,4 +1,8 @@
-﻿namespace maERPSoft.Models
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+using maERPSoft.Data;
+
+namespace maERPSoft.Models
 {
     public class Employee
     {

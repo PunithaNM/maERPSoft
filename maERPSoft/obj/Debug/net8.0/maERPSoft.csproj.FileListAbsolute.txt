@@ -169,3 +169,4 @@ C:\Users\smart\source\repos\maERPSoft\maERPSoft\obj\Debug\net8.0\refint\maERPSof
 C:\Users\smart\source\repos\maERPSoft\maERPSoft\obj\Debug\net8.0\maERPSoft.pdb
 C:\Users\smart\source\repos\maERPSoft\maERPSoft\obj\Debug\net8.0\maERPSoft.genruntimeconfig.cache
 C:\Users\smart\source\repos\maERPSoft\maERPSoft\obj\Debug\net8.0\ref\maERPSoft.dll
+C:\Users\smart\source\repos\maERPSoft\maERPSoft\obj\Debug\net8.0\maERPSoft.sourcelink.json
